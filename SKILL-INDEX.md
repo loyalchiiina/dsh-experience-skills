@@ -48,7 +48,7 @@
 - **铁律**：`fluent-process-approval-law`（进程审批/暂停三次确认/无人值守时段判定）
 - **纪律**：`fluent-case-save-discipline`（保存命名）、`fluent-step-plan-discipline`（分步安排）
 - **总流程**：`fluent-muti-air-equal-rpm-workflow1`（同转速多通气量 PBM）、`fluent-muti-rpm-equal-air-workflow2`（多转速相同通气量）
-- **分项**：`fluent-mrf-torque`、`fluent-aeration-stabilization`、`fluent-pbm-calculation`、`fluent-pbm-export`、`fluent-setfile-management`、`fluent-session-connect`、`fluent-gui-open`、`fluent-animation-organization`、`fluent-case-backup`、`fluent-mesh-packaging`、`fluent-meshing-automation`、`fluent-meshing-fufeng-workflow2`、`fluent-meshing-xinghukeji-workflow1`、`fluent-junk-cleanup`、`fluent-liquid-surface-volume-query`、`fluent-shear-analysis`、`fluent-data-postprocess-comparison`
+- **分项**：`fluent-mrf-torque`、`fluent-aeration-stabilization`、`fluent-pbm-calculation`、`fluent-pbm-export`、`fluent-setfile-management`、`fluent-session-connect`、`fluent-gui-open`、`fluent-animation-organization`、`fluent-case-backup`、`fluent-mesh-packaging`、`fluent-meshing-automation`、`fluent-meshing-project-a-workflow2`、`fluent-meshing-project-b-workflow1`、`fluent-junk-cleanup`、`fluent-liquid-surface-volume-query`、`fluent-shear-analysis`、`fluent-data-postprocess-comparison`
 - **监控/进程**：`fluent-operation-monitor`（看门狗）、`fluent-midrun-save`（密码/中间保存）、`fluent-detached-process-rule`（独立进程启动，禁挂 DSH job）
 - **预防/前置**：`fluent-path-check`（路径空格）、`fluent-run-continuity`（续算对齐）、`fluent-prev-run-vdisplay-cleanup`（关虚拟显示）
 - **故障**：`fluent-run-failure-troubleshooting`（通用判断经验库，案例下沉 references）
